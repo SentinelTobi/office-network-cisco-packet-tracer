@@ -269,6 +269,9 @@ end
 show ip interface brief
 show ip route
 
+
+![show ip route](screenshots/ip-route.png)
+
 **Confirmed output:**
 GigabitEthernet0/0    192.168.50.1      up    up
 
@@ -354,6 +357,7 @@ Vlan20                203.0.113.1       up    up
 - Username: admin / Password: admin
 - Accessible from all three departments through the router
 
+![FTP Services](screenshots/ftp-services.png)
 ---
 
 ## ✅ Verification & Testing
