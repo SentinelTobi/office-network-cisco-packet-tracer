@@ -460,6 +460,5 @@ office-network-cisco-packet-tracer/
     ├── ping-results.png
     └── ftp-services.png
 
-    📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
