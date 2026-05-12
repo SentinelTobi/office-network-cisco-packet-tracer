@@ -449,3 +449,17 @@ ping 192.168.50.194
 - Cross-Subnet Connectivity and Routing
 - Network Troubleshooting and Verification
 
+office-network-cisco-packet-tracer/
+├── README.md
+├── office-network-lab.pkt
+├── LICENSE
+└── screenshots/
+    ├── topology.png
+    ├── ip-interface-brief.png
+    ├── ip-route.png
+    ├── ping-results.png
+    └── ftp-services.png
+
+    📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
